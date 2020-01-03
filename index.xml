@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robbie Matyasi</title>
+    <link>https://robertmatyasi.github.io/</link>
+      <atom:link href="https://robertmatyasi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robbie Matyasi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© R. Mátyási 2020</copyright>
+    <image>
+      <url>https://robertmatyasi.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Robbie Matyasi</title>
+      <link>https://robertmatyasi.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Other</title>
+      <link>https://robertmatyasi.github.io/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://robertmatyasi.github.io/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://robertmatyasi.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://robertmatyasi.github.io/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://robertmatyasi.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://robertmatyasi.github.io/teaching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
